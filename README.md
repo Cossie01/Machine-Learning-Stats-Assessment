@@ -17,6 +17,13 @@ This notebook covers the following aspects:
 
 ### 2. regression.ipynb
 This notebook focuses on regression analysis:
+- **Introduction**: An overview of the project and the dataset.
+- **Data Preparation**: A view of all the libraries used and loading the data. 
+- **Exploratory Data Analysis**: Examination of the correlation between all data columns to identify any significant associations.
+- **Model Building**: Implementation of the Linear Regressin Model to compare the data within the dataset.
+- **Other Model**: Presentation of the outcomes of the Random Forest Model and the K Nearest Neighbour Model and the interpretation of the results.
+- **In an Ideal World**: Presentation of a simulated data set where when the years of service increased the salary increased. The same models above were used on the fake data to see the outcome. 
+- **References**: A list of references used in the analysis.
 
 ## Getting Started
 To access and run the notebooks on your local machine:
